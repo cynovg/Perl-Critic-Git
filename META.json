@@ -72,5 +72,16 @@
       }
    },
    "version" : "v1.3.3",
-   "x_serialization_backend" : "JSON::PP version 2.27300_01"
+   "x_contributors" : [
+      "Dmitry Tarasov <15786586+mrsndmn@users.noreply.github.com>",
+      "Dmitry Tarasov <d.tarasov@corp.mail.ru>",
+      "Dmitry Tarasov <mrsndmn46@gmail.com>",
+      "Guillaume Aubert <aubertg@cpan.org>",
+      "Mohammad S Anwar <mohammad.anwar@yahoo.com>",
+      "Novgorodcev Cyrill <cynovg@gmail.com>",
+      "Philippe Bruhat (BooK) <book@cpan.org>",
+      "k.novgorodtsev <k.novgorodtsev@vk.team>"
+   ],
+   "x_serialization_backend" : "JSON::PP version 4.06",
+   "x_static_install" : 1
 }

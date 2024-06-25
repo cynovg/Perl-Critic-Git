@@ -4,7 +4,7 @@ Perl::Critic::Git - Bond git and Perl::Critic to blame the right people for viol
 
 # VERSION
 
-Version 1.3.3
+Version v1.3.3
 
 # SYNOPSIS
 
